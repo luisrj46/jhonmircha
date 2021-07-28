@@ -1,1 +1,1 @@
-alert("hola desde js")
+alert("Esto es una alerta con javascript")
